@@ -1,3 +1,6 @@
+<img width="579" alt="male dashboard" src="https://github.com/user-attachments/assets/26ddeb65-c424-416e-89ba-ac59ea01dff7">
+<img width="578" alt="female hormonal changes visualization" src="https://github.com/user-attachments/assets/f98562c6-e05e-4886-92cb-73b64a6d225f">
+<img width="577" alt="female dashboard" src="https://github.com/user-attachments/assets/b679e05e-1e4b-4a4a-bbbf-c7f2c5215b84">
 # Project: Circadian Rhythm Analysis Dashboard using Microsoft Power BI Desktop
 # Project Description:
 This project involves creating a comprehensive business intelligence dashboard using Microsoft Power BI Desktop to analyze circadian rhythms in male and female patients. The dashboard offers insights into sleep patterns, physical activity, medication usage, health issues, and hormonal levels for female patients. It provides visualizations in the form of cards, bar graphs, pie charts, and donut charts for effective data interpretation.
