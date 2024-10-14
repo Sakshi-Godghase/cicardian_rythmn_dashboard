@@ -1,19 +1,20 @@
-**Project: Circadian Rhythm Analysis Dashboard using Microsoft Power BI Desktop**
-**Project Description:**
+# Project: Circadian Rhythm Analysis Dashboard using Microsoft Power BI Desktop
+# Project Description:
 This project involves creating a comprehensive business intelligence dashboard using Microsoft Power BI Desktop to analyze circadian rhythms in male and female patients. The dashboard offers insights into sleep patterns, physical activity, medication usage, health issues, and hormonal levels for female patients. It provides visualizations in the form of cards, bar graphs, pie charts, and donut charts for effective data interpretation.
 
-**Roadmap:**
+# Roadmap:
 Data Collection: Gather patient data, including sleep hours, physical activity, medications, health conditions, family history, and hormone levels for female patients.
 Data Processing: Clean and format the data for visualization in Power BI.
 
-**Dashboard Creation:**
+# Dashboard Creation:
 Male Patients: Visualize sleep patterns, medication intake, health issues, and physical activity.
 Female Patients: Visualize sleep patterns, hormone levels, period tracking, medication intake, and physical activity.
 Deployment: Upload the final Power BI report to GitHub for access and demonstration.
 Libraries/Tools Used:
 Microsoft Power BI Desktop: For creating visualizations and dashboards.
 Data Sources: CSV files, databases, or direct queries for patient data.
-**Methodology:**
+
+# Methodology:
 Data Ingestion: Import relevant data into Power BI Desktop.
 Data Transformation: Use Power Query for data cleaning, filtering, and preparing fields for visualizations.
 Visualization:
@@ -23,8 +24,8 @@ Pie Charts for medication taken by patients.
 Donut Charts for family medical history and medications.
 Line Graphs/Bar Charts for tracking melatonin, progesterone, and estrogen levels (female patients).
 Insights Generation: Derive insights from the visualizations for circadian rhythm patterns in patients.
-**Dashboard Features:**
-1. Male Patients:
+# Dashboard Features:
+**1. Male Patients:**
 Card: Displays the total count of male patients.
 Importance: Provides a quick summary of the patient demographic, helping to segment and analyze data by gender.
 
@@ -43,7 +44,7 @@ Importance: Shows familial patterns of diseases or medications, which can help i
 Bar Graph: Estimated hours of physical activity per male patient.
 Importance: Monitors physical activity levels, essential for understanding lifestyle impacts on health and promoting better physical well-being.
 
-2. Female Patients:
+**2. Female Patients:**
 Card: Displays the total count of female patients.
 Importance: A quick reference for the female demographic, useful for gender-specific health analysis.
 
