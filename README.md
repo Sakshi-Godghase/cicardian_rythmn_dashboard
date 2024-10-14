@@ -1,6 +1,4 @@
-<img width="579" alt="male dashboard" src="https://github.com/user-attachments/assets/26ddeb65-c424-416e-89ba-ac59ea01dff7">
-<img width="578" alt="female hormonal changes visualization" src="https://github.com/user-attachments/assets/f98562c6-e05e-4886-92cb-73b64a6d225f">
-<img width="577" alt="female dashboard" src="https://github.com/user-attachments/assets/b679e05e-1e4b-4a4a-bbbf-c7f2c5215b84">
+
 # Project: Circadian Rhythm Analysis Dashboard using Microsoft Power BI Desktop
 # Project Description:
 This project involves creating a comprehensive business intelligence dashboard using Microsoft Power BI Desktop to analyze circadian rhythms in male and female patients. The dashboard offers insights into sleep patterns, physical activity, medication usage, health issues, and hormonal levels for female patients. It provides visualizations in the form of cards, bar graphs, pie charts, and donut charts for effective data interpretation.
@@ -47,6 +45,8 @@ Importance: Shows familial patterns of diseases or medications, which can help i
 Bar Graph: Estimated hours of physical activity per male patient.
 Importance: Monitors physical activity levels, essential for understanding lifestyle impacts on health and promoting better physical well-being.
 
+<img width="579" alt="male dashboard" src="https://github.com/user-attachments/assets/26ddeb65-c424-416e-89ba-ac59ea01dff7">
+
 **2. Female Patients:**
 Card: Displays the total count of female patients.
 Importance: A quick reference for the female demographic, useful for gender-specific health analysis.
@@ -66,8 +66,11 @@ Importance: Helps trace familial health risks and medications, important for cre
 Bar Graph: Estimated hours of physical activity per female patient.
 Importance: Monitors physical activity, crucial for addressing health risks associated with inactivity, such as obesity or cardiovascular disease.
 
+<img width="577" alt="female dashboard" src="https://github.com/user-attachments/assets/b679e05e-1e4b-4a4a-bbbf-c7f2c5215b84">
+
 Bar Graph: Melatonin, progesterone, and estrogen levels.
 Importance: Tracks hormonal changes which can affect circadian rhythms, mood, and overall health, providing a more detailed analysis for female patients.
 
 Period Tracking: Visualization of menstrual cycle patterns.
 Importance: Important for understanding hormonal effects on circadian rhythms, sleep, and health in women, helping healthcare providers tailor advice and treatments.
+<img width="578" alt="female hormonal changes visualization" src="https://github.com/user-attachments/assets/f98562c6-e05e-4886-92cb-73b64a6d225f">
